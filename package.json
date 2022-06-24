@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node-hid": "^2.1.1",
+    "spherov2.js": "^0.1.25"
+  }
+}
